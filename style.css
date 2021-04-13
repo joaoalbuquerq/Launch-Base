@@ -84,6 +84,9 @@ header{
 .cards{
     max-width: 800px;
     margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /*os elementos irão ocupar 3 colunas */
+    gap: 30px; /*Espaço entre os elementos do grid*/
 }
 
 .card{
