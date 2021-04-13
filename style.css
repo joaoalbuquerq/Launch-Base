@@ -85,15 +85,3 @@ header{
     max-width: 800px;
     margin: 0 auto;
 }
-
-.card{
-    background-color: #7159c1;
-}
-
-.cards-image img{
-    width: 100%;
-}
-
-.card-content,.card-info{
-    padding:24px;
-}
